@@ -25,19 +25,15 @@ Make sure you have Python 3.7+ installed on your computer. You can download the 
 * [pytest](https://docs.pytest.org/en/6.2.x/#) (install via "pip install -U pytest")
 
 **How To:**<br>
-After you've successfully installed Python, open your Mac, Windows or Linux Terminal. Now you have to install questionary. To do so, type "pip install questionary" into the console. The package will install itself. After you've installed questionary, you can start running the program. Download the files "Habit.py", "initialisation.py", "main.py" and "User.py" and save them in a folder on your computer. Now type the following - replace the placeholders with your personal file path - into your Terminal: "Python filepath/foldername/main.py". You've successfully launched the program! Have fun! 
-
-You are free to additionally download the "main_db.db" or the test data to try out some of the functionalities.
-*For test usage please refer to the available data in the "data" folder or download the given main_db.db file.*
-
-To run the tests, download all files incl. the folder "test" onto your computer. Install freezegun with "pip install freezegun". Start the tests with calling pytest from the command-line "pytest filepath/foldername/test_NAME.py" - again, replace the placeholders with the file path on your computer.   
+After you've successfully installed Python, open your Mac, Windows or Linux Terminal. Now you have to install questionary. To do so, type "pip install questionary" into the console. The package will install itself. After you've installed questionary, you can start running the program. Download the files "Habit.py", "initialisation.py", "main.py" and "User.py" and save them in a folder on your computer. Now type the following - replace the placeholders with your personal file path - into your Terminal: "Python filepath/foldername/main.py". You've successfully launched the program!. 
 
 
 ## Usage and Main Functionalities
 
-*For test usage please refer to the available data in the "data" folder or download the given main_db.db file.*
+*For test usage, you can use the dfollowing details to try out the app.*
 
-*Access documentation through Python's built-in help() function to get more information on the functionalities of the program.*
+*USERNAME: admin*
+*PASSWORD: admin*
 
 #### 0. Register
 
