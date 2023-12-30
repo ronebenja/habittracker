@@ -30,9 +30,9 @@ After you've successfully installed Python, open your Mac, Windows or Linux Term
 
 ## Usage and Main Functionalities
 
-*For test usage, you can use the dfollowing details to try out the app.*
+*For test usage, you can use the following details to try out the app.*
 
-*USERNAME: admin*
+*USERNAME: admin,*
 *PASSWORD: admin*
 
 #### 0. Register
