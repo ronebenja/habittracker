@@ -100,5 +100,5 @@ After you've successfully installed Python, open your Mac, Windows or Linux Term
   
 
 ## Contributing 
-This is my first Python project. Your comments, suggestions, and contributions are welcome. 
-Please feel free to contribute pull requests or create issues for bugs and feature requests.
+Your comments, suggestions, and contributions are welcome. 
+
