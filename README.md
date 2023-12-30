@@ -32,7 +32,7 @@ After you've successfully installed Python, open your Mac, Windows or Linux Term
 
 *For test usage, you can use the following details to try out the app.*
 
-*USERNAME: admin,*
+*USERNAME: admin*
 *PASSWORD: admin*
 
 #### 0. Register
